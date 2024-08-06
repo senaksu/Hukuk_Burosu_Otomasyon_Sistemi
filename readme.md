@@ -45,11 +45,12 @@ Bu proje, bir hukuk bürosunun avukat, stajyer, müvekkil ve dosya bilgilerini s
 Projenin ekran görüntülerini aşağıda görebilirsiniz:
 
 <p>
-  <img src="https://github.com/senaksu/Hukuk_Burosu_Otomasyon_Sistemi/blob/main/hukuk%20otomasyon/veritaban%C4%B1%20resim/varlikbagintipoje.png?raw=true" width="300" style="margin-right: 20px;" />
-  <img src="https://github.com/senaksu/Hukuk_Burosu_Otomasyon_Sistemi/blob/main/hukuk%20otomasyon/veritaban%C4%B1%20resim/ekran1.png?raw=true" width="300" style="margin-right: 20px;" />
+  <img src="https://github.com/senaksu/Hukuk_Burosu_Otomasyon_Sistemi/blob/main/hukuk%20otomasyon/veritaban%C4%B1%20resim/varlikbagintipoje.png?raw=true" width="300" height="200" style="margin-right: 20px;" />
+  <img src="https://github.com/senaksu/Hukuk_Burosu_Otomasyon_Sistemi/blob/main/hukuk%20otomasyon/veritaban%C4%B1%20resim/ekran1.png?raw=true" width="300" height="200" style="margin-right: 20px;" />
 </p>
 
 <p>
-  <img src="https://github.com/senaksu/Hukuk_Burosu_Otomasyon_Sistemi/blob/main/hukuk%20otomasyon/veritaban%C4%B1%20resim/ekran2.png?raw=true" width="300" style="margin-right: 20px;" />
-  <img src="https://github.com/senaksu/Hukuk_Burosu_Otomasyon_Sistemi/blob/main/hukuk%20otomasyon/veritaban%C4%B1%20resim/ekran3.png?raw=true" width="300" />
+  <img src="https://github.com/senaksu/Hukuk_Burosu_Otomasyon_Sistemi/blob/main/hukuk%20otomasyon/veritaban%C4%B1%20resim/ekran2.png?raw=true" width="300" height="200" style="margin-right: 20px;" />
+  <img src="https://github.com/senaksu/Hukuk_Burosu_Otomasyon_Sistemi/blob/main/hukuk%20otomasyon/veritaban%C4%B1%20resim/ekran3.png?raw=true" width="300" height="200" />
 </p>
+
